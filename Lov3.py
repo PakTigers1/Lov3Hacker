@@ -338,12 +338,12 @@ def menu():
 	print "	   \033[1;91m Name\033[1;91m:\033[1;91m"+nama+"\033[1;95m               "
 	print "	   \033[1;91m ID\033[1;91m:\033[1;91m"+id+"\x1b[1;95m              "
 	print "\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;95mBlackMafia\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"
-	print "\033[1;32;40m[1] \033[1;33;41mStart Cloning "	
-        print "\033[1;32;40m[2] \033[1;33;41mlogin Using Token "
-        print "\033[1;32;40m[3] \033[1;33;41mBlack Mafia WhatsApp Group"	
-        print "\033[1;32;40m[4] \033[1;33;41mBlack Mafia Youtube Chenal"		
-	print "\033[1;32;40m[5] \033[1;33;42mUpdate Tool.BlackMafia.. "																														
-	print "\033[1;32;40m[0] \033[1;33;43mLog out "
+	print "\033[1;32;40m[1] \033[1;32;41mStart Cloning "	
+        print "\033[1;32;40m[2] \033[1;32;41mlogin Using Token "
+        print "\033[1;32;40m[3] \033[1;32;41mBlack Mafia WhatsApp Group"	
+        print "\033[1;32;40m[4] \033[1;32;41mBlack Mafia Youtube Chenal"		
+	print "\033[1;32;40m[5] \033[1;32;41mUpdate Tool.BlackMafia.. "																														
+	print "\033[1;32;40m[0] \033[1;32;43mLog out "
 	pilih()
 	
 def pilih():
